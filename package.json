@@ -1,0 +1,19 @@
+{
+  "name": "youtube-api-search",
+  "version": "0.0.1",
+  "description": "Youtube search api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "youtube",
+    "search",
+    "api"
+  ],
+  "author": "İbrahim Telman",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.7.0"
+  }
+}
