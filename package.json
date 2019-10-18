@@ -9,7 +9,10 @@
   "keywords": [
     "youtube",
     "search",
-    "api"
+    "api",
+    "youtube-v3-api",
+    "google",
+    "video-search"
   ],
   "author": "İbrahim Telman",
   "license": "MIT",
